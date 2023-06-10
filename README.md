@@ -22,11 +22,9 @@
 
 - Android :
 
-![1](https://github.com/pmduc010702/App-Social-Media-Flutter/assets/133225436/fd6517f4-3016-4c0f-ad54-646552ab8c1a) 
-![2](https://github.com/pmduc010702/App-Social-Media-Flutter/assets/133225436/71867ef8-afa8-4292-a628-5e298c87cb80)
+![1](https://github.com/pmduc010702/App-Social-Media-Flutter/assets/133225436/fd6517f4-3016-4c0f-ad54-646552ab8c1a)![2](https://github.com/pmduc010702/App-Social-Media-Flutter/assets/133225436/71867ef8-afa8-4292-a628-5e298c87cb80)
 
-![3](https://github.com/pmduc010702/App-Social-Media-Flutter/assets/133225436/e2cf1de8-643d-4313-acbd-2ab6524a39ec)
-![4](https://github.com/pmduc010702/App-Social-Media-Flutter/assets/133225436/488d956e-d61b-4b94-a753-af60cea21092)
+![3](https://github.com/pmduc010702/App-Social-Media-Flutter/assets/133225436/e2cf1de8-643d-4313-acbd-2ab6524a39ec)![4](https://github.com/pmduc010702/App-Social-Media-Flutter/assets/133225436/488d956e-d61b-4b94-a753-af60cea21092)
 
 
 
