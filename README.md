@@ -22,16 +22,24 @@
 
 - Android :
 
-![1](https://github.com/pmduc010702/App-Social-Media-Flutter/assets/133225436/fd6517f4-3016-4c0f-ad54-646552ab8c1a)![2](https://github.com/pmduc010702/App-Social-Media-Flutter/assets/133225436/71867ef8-afa8-4292-a628-5e298c87cb80)
+<div style="display: flex;">
+  <img width="45%" alt="Screenshot1" src="https://github.com/pmduc010702/App-Social-Media-Flutter/assets/133225436/e2f0cc02-b1b6-462a-a86f-54602002e3f4">
+  <img width="45%" alt="Screenshot2" src="https://github.com/pmduc010702/App-Social-Media-Flutter/assets/133225436/ab9728d1-26f4-4a2a-9c3d-398cd09797f1">
+  
+  <img width="45%" alt="Screenshot3" src="https://github.com/pmduc010702/App-Social-Media-Flutter/assets/133225436/ff16bb9c-1821-4a21-b201-ae8573674add">
+  <img width="45%" alt="Screenshot4" src="https://github.com/pmduc010702/App-Social-Media-Flutter/assets/133225436/f5fb9a61-841e-4bc3-8f24-9de40f5e69a7">
+  
+  <img width="45%" alt="Screenshot5" src="https://github.com/pmduc010702/App-Social-Media-Flutter/assets/133225436/05cf108c-16d8-4801-836d-95f1033050ab">
+  <img width="45%" alt="Screenshot6" src="https://github.com/pmduc010702/App-Social-Media-Flutter/assets/133225436/133b7a3b-795f-41aa-b380-a3f13febd756">
+</div>
 
-![3](https://github.com/pmduc010702/App-Social-Media-Flutter/assets/133225436/e2cf1de8-643d-4313-acbd-2ab6524a39ec)![4](https://github.com/pmduc010702/App-Social-Media-Flutter/assets/133225436/488d956e-d61b-4b94-a753-af60cea21092)
 
 
 
 - Web :
 
-![5](https://github.com/pmduc010702/App-Social-Media-Flutter/assets/133225436/52502869-3bc6-482a-a091-5572b8e54c8b)
-![6](https://github.com/pmduc010702/App-Social-Media-Flutter/assets/133225436/af5bdc94-cd55-460a-aa22-d389d9386684)
+  <img width="100%" alt="Screenshot7" src="https://github.com/pmduc010702/App-Social-Media-Flutter/assets/133225436/d62bbf93-0b36-4707-9af1-b37ea69c6d55">
+  <img width="100%" alt="Screenshot8" src="https://github.com/pmduc010702/App-Social-Media-Flutter/assets/133225436/2a7bad49-794a-47fa-807c-a19b77208759">
 
 
 ## Installation
