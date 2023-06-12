@@ -38,8 +38,8 @@
 
 - Web :
 
-  <img width="100%" alt="Screenshot7" src="https://github.com/pmduc010702/App-Social-Media-Flutter/assets/133225436/d62bbf93-0b36-4707-9af1-b37ea69c6d55">
-  <img width="100%" alt="Screenshot8" src="https://github.com/pmduc010702/App-Social-Media-Flutter/assets/133225436/2a7bad49-794a-47fa-807c-a19b77208759">
+  <img width="100%" alt="Screenshot7" src="https://github.com/pmduc010702/Social-Media-App_Flutter/assets/133225436/18deb803-f5aa-4f76-a794-ee693b4ed859">
+  <img width="100%" alt="Screenshot8" src="https://github.com/pmduc010702/Social-Media-App_Flutter/assets/133225436/0d9dd717-a4b6-4d9f-888f-1855eb32cbc3">
 
 
 ## Installation
